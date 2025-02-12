@@ -18,7 +18,12 @@
 ## Day 2
 
 
-https://black.readthedocs.io/en/stable/index.html
+* [black](https://black.readthedocs.io/en/stable/index.html) for code formatting.
+* [python exceptions](https://docs.python.org/3/library/exceptions.html)
 
+example with `...` and with `pass`
 
-https://docs.python.org/3/library/exceptions.html
+Finished chapter about numbers including random numbers.
+
+## Day 3
+
