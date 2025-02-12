@@ -18,3 +18,7 @@
 ## Day 2
 
 
+https://black.readthedocs.io/en/stable/index.html
+
+
+https://docs.python.org/3/library/exceptions.html
