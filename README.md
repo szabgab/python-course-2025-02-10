@@ -1,5 +1,6 @@
+# Python course starting on 2025.02.10
 
-## Day 1
+## Day 1 (2025.02.10)
 
 * [slides](https://slides.code-maven.com/python/)
 
@@ -15,3 +16,5 @@
 * Finished First Steps and the "Modules" page.
 
 ## Day 2
+
+
