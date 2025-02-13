@@ -27,3 +27,23 @@ Finished chapter about numbers including random numbers.
 
 ## Day 3
 
+
+Linters for Python
+* pylint
+* flake8
+* Pylance
+* ... ?
+
+```
+pip install --upgrade flake8
+```
+
+* [Exercism](https://exercism.org/)
+
+* Added [test for while loop](https://slides.code-maven.com/python/testing-the-refactoring-of-the-while-loop.html)
+* [Implement range with floating point numbers](https://slides.code-maven.com/python/range-with-floating-point-steps.html)
+
+Finished chapter about Formatted strings.
+
+## Day 4
+
