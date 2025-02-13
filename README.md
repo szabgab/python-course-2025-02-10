@@ -27,6 +27,8 @@ Finished chapter about numbers including random numbers.
 
 ## Day 3
 
+* https://docs.python.org/3/library/ipaddress.html
+
 
 Linters for Python
 * pylint
