@@ -68,4 +68,6 @@ Finished chapter about Formatted strings.
 * [Pillow Image documentation](https://pillow.readthedocs.io/en/stable/reference/Image.html)
 
 
-https://pillow.readthedocs.io/en/stable/reference/Image.html
+## Day 5
+
+
