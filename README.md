@@ -17,6 +17,9 @@
 
 ## Day 2
 
+* Chapters
+    * Second Steps
+    * Numbers
 
 * [black](https://black.readthedocs.io/en/stable/index.html) for code formatting.
 * [python exceptions](https://docs.python.org/3/library/exceptions.html)
@@ -26,6 +29,12 @@ example with `...` and with `pass`
 Finished chapter about numbers including random numbers.
 
 ## Day 3
+
+* Chapters
+    * Boolean
+    * Strings
+    * Loops
+    * Formatted Strings
 
 * https://docs.python.org/3/library/ipaddress.html
 
@@ -49,3 +58,14 @@ Finished chapter about Formatted strings.
 
 ## Day 4
 
+* Chapters
+    * Lists
+    * Tuples
+    * Files: we go to the Binary files: Images
+
+* [range iterable with floating point](https://slides.code-maven.com/python/range-with-floating-point-steps.html)
+* [random](https://docs.python.org/3/library/random.html) sample, choice, ...
+* [Pillow Image documentation](https://pillow.readthedocs.io/en/stable/reference/Image.html)
+
+
+https://pillow.readthedocs.io/en/stable/reference/Image.html
