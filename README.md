@@ -70,4 +70,16 @@ Finished chapter about Formatted strings.
 
 ## Day 5
 
+* Chapters
+    * Files
+    * Dictionaries
+
+* [LinkedIn](https://www.linkedin.com/in/szabgab/)
+* [PyWeb-IL](https://www.meetup.com/pyweb-il/)
+* [Rust-TLV](https://www.meetup.com/rust-tlv/)
+
+## Day 6
+
+
+
 
