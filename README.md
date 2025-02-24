@@ -80,6 +80,11 @@ Finished chapter about Formatted strings.
 
 ## Day 6
 
+* Chapters
+    * Sets
+    * Code Reuse skipped (see functions)
+    * Functions
+    * Modules
 
 
-
+## Day 7
