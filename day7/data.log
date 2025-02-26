@@ -1,0 +1,5 @@
+<trace>	2025-02-03 10:03:41.260	Fine Alignment Final theta position: T = -7.230000 Millidegree	2025-02-03 10:03:41.2615929	autologonuser	WaferOriginThread  hex::0x000072C0  Dec::29376	0x0	Krnl
+<trace>	2025-02-03 10:32:03.146	X of COW is [9921374.600000]nm, Y of COW is [31537514.200000]nm, Center Of Chuck X = [10018791.900000]nm, Center Of Chuck Y = [31507903.100000]nm	2025-02-03 10:32:03.1465873	autologonuser	WaferOriginThread  hex::0x000072C0  Dec::29376	0x0	Krnl	
+<trace>	2025-02-03 10:32:03.146	Last COW saved in MCDB.	2025-02-03 10:32:03.1481283	autologonuser	WaferOriginThread  hex::0x000072C0  Dec::29376	0x0	Krnl
+
+

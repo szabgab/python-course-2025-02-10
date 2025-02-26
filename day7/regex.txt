@@ -1,0 +1,7 @@
+https?://(www\.)?code-maven\.com
+
+https://www.code-maven.com
+https://code-maven.com
+http://www.code-maven.com
+http://code-maven.com
+

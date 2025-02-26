@@ -86,5 +86,21 @@ Finished chapter about Formatted strings.
     * Functions
     * Modules
 
-
 ## Day 7
+
+
+* [Multiprocessing](https://slides.code-maven.com/python/multiprocess-file.html)
+* [sckit-learn](https://scikit-learn.org/)
+* [OpenCV](https://slides.code-maven.com/python/load-image-using-opencv.html) to open images (see the Jupyter notebook mentioned in the slide)
+
+* Chapters
+    * Regular Expressions 1-3
+
+## Day 8
+
+
+## Day 9
+
+
+## Day 10
+
