@@ -98,9 +98,22 @@ Finished chapter about Formatted strings.
 
 ## Day 8
 
+* Chapters
+    * [VS Code](https://slides.code-maven.com/python/vscode.html)
+    * Python Standard modules, math, sys, pathlib, shutil, time, datetime, subprocess, argparse
+
+* [getpass](https://docs.python.org/3/library/getpass.html) to get password from STDIN
+* [psutil](https://pypi.org/project/psutil/)
+* [argparse date](https://stackoverflow.com/questions/25470844/specify-date-format-for-python-argparse-input-arguments)
+* [Python in Hebrew](https://python-he.code-maven.com/)
+* [glob](https://en.wikipedia.org/wiki/Glob_(programming))
+* [strftime](https://strftime.org/)
+* [online events](https://events.code-maven.com/) (timezones and date conversion)
+
 
 ## Day 9
 
+How to defined the python executable in VS Code?
 
 ## Day 10
 
