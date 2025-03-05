@@ -113,7 +113,21 @@ Finished chapter about Formatted strings.
 
 ## Day 9
 
-How to defined the python executable in VS Code?
+* [jq](https://jqlang.org/)
+
+* Chapters
+    * PyPI (how to find a library for Excel)
+    * Excel
+    * JSON
+    * YAML
+    * Exception Handling
+    * OOP (till Inheritance)
 
 ## Day 10
+
+Plan
+    * Finish OOP ?
+    * Testing code
+
+
 
